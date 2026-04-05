@@ -70,7 +70,7 @@ The system includes:
 ![Circuit On](fig7_2_circuit_on.jpg)
 
 ### ESP8266 WiFi Module
-![ESP8266](fig7_3_esp8266_wifi_module.jpg
+![ESP8266](fig7_3_esp8266_wifi_module.jpg)
 
 ### Arduino Uno on Circuit
 ![Arduino](fig7_4_arduino_on_circuit.jpg)
