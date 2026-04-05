@@ -109,7 +109,6 @@ The system includes:
 ## 📌 Note
 
 This project is developed as part of my **B.Tech project**.  
-More files like circuit diagrams, results, and explanations will be uploaded soon.
 
 ---
 
