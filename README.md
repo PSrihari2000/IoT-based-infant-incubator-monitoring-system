@@ -34,6 +34,9 @@ The goal of this project is to build a **low-cost and efficient monitoring syste
 
 ## 🧠 System Architecture
 
+### Block Diagram
+![Block Diagram](images/fig3_1_block_diagram.jpg)
+
 The system includes:
 
 - Arduino Uno (Main controller)
@@ -46,7 +49,7 @@ The system includes:
 📄 Refer to full project report:  
 👉 :contentReference[oaicite:0]{index=0}
 
----
+
 
 ## ⚙️ Technologies & Tools Used
 
@@ -57,13 +60,33 @@ The system includes:
 - Sensors interfacing  
 
 ---
+## Results
+## 📸 Project Photos
 
-## 📂 Repository Structure
-├── infant_incubator_monitoring.ino # Arduino Code
-├── README.md # Project Documentation
-├── docs/ # (To be added: diagrams, results)
-└── images/ # (To be added later)
+### Circuit (OFF State)
+![Circuit Off](images/fig7_1_circuit_off.jpg)
+
+### Circuit (ON State)
+![Circuit On](images/fig7_2_circuit_on.jpg)
+
+### ESP8266 WiFi Module
+![ESP8266](images/fig7_3_esp8266_wifi_module.jpg)
+
+### Arduino Uno on Circuit
+![Arduino](images/fig7_4_arduino_on_circuit.jpg)
+
+### LCD Displaying Sensor Readings
+![LCD Display](images/fig7_5_lcd_humidity_temperature.jpg)
+
 ---
+
+## 📊 ThingSpeak Cloud Results
+
+### Temperature & Humidity
+![ThingSpeak Temp & Humidity](images/fig7_6_7_thingspeak_temperature_humidity_graphs.jpg)
+
+### Gas & Pulse
+![ThingSpeak Gas & Pulse](images/fig7_8_9_thingspeak_gas_pulse_graphs.jpg)
 
 ## 🚀 Features
 
