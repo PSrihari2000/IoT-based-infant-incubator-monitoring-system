@@ -35,7 +35,7 @@ The goal of this project is to build a **low-cost and efficient monitoring syste
 ## 🧠 System Architecture
 
 ### Block Diagram
-![Block Diagram](images/fig3_1_block_diagram.jpg)
+![Block Diagram](fig3_1_block_diagram.jpg)
 
 The system includes:
 
@@ -64,29 +64,28 @@ The system includes:
 ## 📸 Project Photos
 
 ### Circuit (OFF State)
-![Circuit Off](images/fig7_1_circuit_off.jpg)
+![Circuit Off](fig7_1_circuit_off.jpg)
 
 ### Circuit (ON State)
-![Circuit On](images/fig7_2_circuit_on.jpg)
+![Circuit On](fig7_2_circuit_on.jpg)
 
 ### ESP8266 WiFi Module
-![ESP8266](images/fig7_3_esp8266_wifi_module.jpg)
+![ESP8266](fig7_3_esp8266_wifi_module.jpg
 
 ### Arduino Uno on Circuit
-![Arduino](images/fig7_4_arduino_on_circuit.jpg)
+![Arduino](fig7_4_arduino_on_circuit.jpg)
 
 ### LCD Displaying Sensor Readings
-![LCD Display](images/fig7_5_lcd_humidity_temperature.jpg)
+![LCD Display](fig7_5_lcd_humidity_temperature.jpg)
 
 ---
 
 ## 📊 ThingSpeak Cloud Results
 
 ### Temperature & Humidity
-![ThingSpeak Temp & Humidity](images/fig7_6_7_thingspeak_temperature_humidity_graphs.jpg)
-
+![ThingSpeak Temp & Humidity](fig7_6_7_thingspeak_temperature_humidity_graphs.jpg)
 ### Gas & Pulse
-![ThingSpeak Gas & Pulse](images/fig7_8_9_thingspeak_gas_pulse_graphs.jpg)
+![ThingSpeak Gas & Pulse](fig7_8_9_thingspeak_gas_pulse_graphs.jpg)
 
 ## 🚀 Features
 
@@ -126,7 +125,7 @@ You can use this project as:
 
 ## 👨‍💻 Author
 
-**Srihari P**  
+**P Srihari**  
 M.Tech – Signal Processing & Communication Engineering  
 IIT Bhubaneswar  
 
